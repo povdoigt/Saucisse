@@ -1,0 +1,2 @@
+# Saucisse
+Discord bot Saucisse
